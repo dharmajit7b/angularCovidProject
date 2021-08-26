@@ -1,0 +1,11 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.logo{
+    margin-top: 10px;
+    width: 100px;
+ }
+.bootstrap-wrapper{
+    height: auto;
+}
