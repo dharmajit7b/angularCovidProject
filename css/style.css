@@ -9,3 +9,12 @@ body{
 .bootstrap-wrapper{
     height: auto;
 }
+#maintop{
+    height: 500px;
+}
+#top{
+    height: 50px;
+}
+.footer{
+    margin-top: 150px;
+}
